@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @entropoid
 - 👀 I’m interested in Distributed systems
 - 🌱 I’m currently learning Docker, K8s
-- 💞️ I’m looking to collaborate on Bio x Tech
+- 💞️ I’m looking to collaborate on Bio x Tech x music
 - 😄 Pronouns: He/Him
 
 <!---
